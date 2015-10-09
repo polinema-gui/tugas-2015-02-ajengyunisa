@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\bin\Debug\KalkulatorLombok.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\bin\Debug\KalkulatorLombok.exe
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\bin\Debug\KalkulatorLombok.pdb
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\bin\Debug\KalkulatorLombok.xml
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\obj\Debug\KalkulatorLombok.Form1.resources
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\obj\Debug\KalkulatorLombok.Resources.resources
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\obj\Debug\KalkulatorLombok.vbproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\obj\Debug\KalkulatorLombok.exe
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\obj\Debug\KalkulatorLombok.xml
+C:\Users\user\documents\visual studio 2013\Projects\KalkulatorLombok\KalkulatorLombok\obj\Debug\KalkulatorLombok.pdb
